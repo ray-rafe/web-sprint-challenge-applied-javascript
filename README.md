@@ -65,7 +65,16 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+   The Document Object Model represents the HTML of a webpage, we use JS to edit the DOM to give a webpage functionality.
+
 2. What is an event?
+   An event is anything the user does on the webpage, like hovering, scrolling, highlighting.
+
 3. What is an event listener?
+   An event listener watches the user's interaction and applies various functions when the User interacts with the page.
+
 4. Why would we convert a NodeList into an Array?
+   Converting a NodeList let's us use .map and .reduce to interact with the content and make it easier for us to interact with.
+
 5. What is a component?
+   A component is a reusable block of code comprising of style elements and functions, we use components to avoid rewriting the same code repeatedly. Components allow us to be dry with our code.
